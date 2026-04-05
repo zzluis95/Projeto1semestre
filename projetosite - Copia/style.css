@@ -21,9 +21,13 @@ body {
     background-color: #121212;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     width: auto;
+    border-bottom: 2px solid #76008d;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
-.logo img{
+.logo img {
     height: 50px;
     width: auto;
     display: block;
@@ -113,13 +117,41 @@ body {
 .footer {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 20px 10%;
     background-color: #121212;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-top: 2px solid #76008d;
 }
 
 .footer-content {
     color: #D8B4FE;
     margin: auto;
+}
+
+/* Container dos ícones */
+.social-icons {
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+    /* Espaço entre os ícones */
+    justify-content: center;
+}
+
+/* Estilo dos ícones */
+.social-icons a {
+    color: #D8B4FE;
+    /* Cor lilás igual ao seu tema */
+    font-size: 1.5rem;
+    /* Tamanho do ícone */
+    transition: transform 0.3s, color 0.3s;
+    /* Suaviza o efeito de passar o mouse */
+    text-decoration: none;
+}
+
+/* Efeito ao passar o mouse */
+.social-icons a:hover {
+    color: #76008d;
+    /* Roxo escuro */
+    transform: scale(1.2);
+    /* O ícone aumenta levemente */
 }
