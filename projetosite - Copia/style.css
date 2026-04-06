@@ -1,4 +1,4 @@
-/* Reset básico para tirar espaços padrões do navegador */
+
 * {
     margin: 0;
     padding: 0;
@@ -140,7 +140,6 @@ body {
 /* Estilo dos ícones */
 .social-icons a {
     color: #D8B4FE;
-    /* Cor lilás igual ao seu tema */
     font-size: 1.5rem;
     /* Tamanho do ícone */
     transition: transform 0.3s, color 0.3s;
