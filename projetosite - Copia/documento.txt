@@ -1,0 +1,73 @@
+1. Visão Geral
+Nome do jogo: Monster Runner (até agora)
+Gênero: Plataforma
+Plataforma: PC
+Público-alvo: Jogadores casuais
+
+
+Resumo do jogo:
+Descreva em 3 a 5 linhas a ideia principal do jogo, objetivo e experiência
+esperada: a principal ideia do jogo é ser um jogo tranquilo e facil de aprender como se fosse aqueles jogos de navegador antigamente, onde o objetivo é terminar a fase, a experiencia esperada é alguem que é iniciante nos games
+
+
+
+2. Mecânicas de Jogo
+Como você atende a persona com o jogo: mecanicas basicas
+
+
+3. Mecânicas de Jogo
+Objetivo do jogador:
+terminar a fase
+
+O que o jogador precisa fazer para vencer?
+terminar a fase
+
+Principais mecânicas:
+• Movimento: andar, pular e correr
+• Interação: atacar
+• Sistema de progressão: terminar a fase
+
+
+
+
+Regras básicas:
+• Condição de vitória: terminar a fase
+• Condição de derrota: morrer
+
+
+
+4. Narrativa e Ambientação
+História: ainda não se tem
+Resumo da narrativa (início, conflito e objetivo).
+
+Ambientação: mundo roxo em pixel 
+Onde o jogo acontece? campos de grama roxa
+Personagens principais: o monstrinho roxo
+• Nome + breve descrição (nao tem)
+• Papel no jogo (ser o personagem principal)
+
+
+
+5. Gameplay (Experiência do Jogador)
+Loop principal:
+O que o jogador faz repetidamente?
+(Ex: explorar → coletar → enfrentar inimigos → evoluir)
+
+
+Nível de dificuldade: facil
+
+
+Duração média: rapido
+
+6. Interface (UI/UX)
+Elementos na tela: Vida
+
+Controles:Teclado
+
+7. Arte e Som
+Estilo visual: pixel art
+
+
+Referências visuais:
+Jogos ou estilos semelhantes.
+Áudio: ambiente ou parecidas
